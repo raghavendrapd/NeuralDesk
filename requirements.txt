@@ -1,7 +1,7 @@
 fastapi
-uvicorn
-langchain
+uvicorn 
 chromadb
 sentence-transformers
 groq
 pypdf
+langchain-community
