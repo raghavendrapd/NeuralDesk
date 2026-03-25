@@ -1,0 +1,6 @@
+FastAPI 
+ChromaDB 
+SentenceTransformers 
+Groq 
+LangChain
+Vanilla 
