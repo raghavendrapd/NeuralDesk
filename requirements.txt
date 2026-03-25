@@ -1,6 +1,7 @@
-FastAPI 
-ChromaDB 
-SentenceTransformers 
-Groq 
-LangChain
-Vanilla 
+fastapi
+uvicorn
+langchain
+chromadb
+sentence-transformers
+groq
+pypdf
